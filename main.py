@@ -1,6 +1,4 @@
-import random
-import hangman_words
-import hangman_art
+
 
 # TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
 word_list = hangman_words.word_list
