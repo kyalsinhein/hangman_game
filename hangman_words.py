@@ -92,7 +92,7 @@ word_list = [
     'jogging',
     'joking',
     'jovial',
-    'joyful',
+ 
     'juicy',
     'jukebox',
     'jumbo',
